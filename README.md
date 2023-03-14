@@ -1,4 +1,5 @@
 # AIB 16기 CP1_DS project
+![image](https://user-images.githubusercontent.com/89699036/224914250-006d238d-c0f1-4e91-a245-21aea8fe603d.png)
 ## Overload and normal vehicle detection
 
 * 과적(불법)차량과 일반차량을 분류할 수 있는 노트북입니다.
